@@ -1,8 +1,9 @@
 # QCII
 
-Sage code and data for 
+Sage code for 
 
-"Quadratic Chabauty and rational points II: Generalised height functions onSelmer varieties" (Jennifer S. Balakrishnan and Netan Dogra)
+"Quadratic Chabauty and rational points II: Generalised height functions on
+Selmer varieties" (Jennifer S. Balakrishnan and Netan Dogra)
 
 For code to carry out Example 1 (Section 7.5.1), the main file is Ex1.sage. 
 For code to carry out Example 2 (Section 7.5.2), the main file is Ex2.sage.
